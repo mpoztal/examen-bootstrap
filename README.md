@@ -1,2 +1,0 @@
-# examen-bootstrap
- maquetacion
