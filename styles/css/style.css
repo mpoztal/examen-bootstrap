@@ -11141,4 +11141,10 @@ body {
   font-family: Roboto;
 }
 
+.bg-img {
+  background-image: url(../../assets/image/foto-principal.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
 /*# sourceMappingURL=style.css.map */
